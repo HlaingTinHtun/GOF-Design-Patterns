@@ -1,6 +1,6 @@
 ## Why Programming paradigm
 
-![Image of Programming Paradigm](hhttps://raw.githubusercontent.com/HlaingTinHtun/OOP-Design-Patterns-In-PHP/master/images/Why-Progarmming-Paradigm.png)
+![Image of Programming Paradigm](https://raw.githubusercontent.com/HlaingTinHtun/OOP-Design-Patterns-In-PHP/master/images/Why-Progarmming-Paradigm.png)
 
 ဒီအကြောင်းကိုပြောဖို့အတွက် ကျနော် sequential နဲ့ procedural programming အကြောင်းကိုအရင်ပြောပြမယ်ဗျ။
 
