@@ -15,5 +15,5 @@ https://bit.ly/3cTUGYP
 ### Interface & Abstract Class (Part 1)
 https://bit.ly/2yT8W5f
 
-### Interface & Abstract Class (Part 1)
+### Interface & Abstract Class (Part 2)
 https://bit.ly/2SnS0ea
