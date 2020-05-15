@@ -19,4 +19,4 @@ https://bit.ly/2yT8W5f
 https://bit.ly/2SnS0ea
 
 ### UML (Unified Modeling Language) – Part 1
-https://bit.ly/2Wz633h
+https://bit.ly/3dOjHoN
