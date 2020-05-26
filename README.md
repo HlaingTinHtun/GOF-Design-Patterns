@@ -18,5 +18,9 @@ https://bit.ly/2yT8W5f
 ### Interface & Abstract Class (Part 2)
 https://bit.ly/2SnS0ea
 
-### UML (Unified Modeling Language) – Part 1
+### Unified Modeling Language(UML) For Design Pattern
+### Part 1 - Class Diagram
 https://bit.ly/3dOjHoN
+
+### Part 2 - Relationship Notations (Acquaintance & Inheritance)
+https://bit.ly/2M2TtCY
