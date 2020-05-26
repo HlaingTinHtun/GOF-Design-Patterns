@@ -8,7 +8,7 @@
 
  ဆိုတော့ ကျနော်ဒီမှာပုံလေးတစ်ပုံဆွဲထားတယ်။ ကြည့်ရအောင်
  ![Image of notations](https://raw.githubusercontent.com/HlaingTinHtun/OOP-Design-Patterns-In-PHP/master/images/notations.png)
-
+https://raw.githubusercontent.com/HlaingTinHtun/OOP-Design-Patterns-In-PHP/master/images/acq.png
  အများကြီးတော့ မပါဘူး၊ ဒါပေမယ့် အခုပြထားတဲ့ notation လေးတွေကို design pattern လေ့လာတဲ့အချိန်မှာ ခနခန မြင်ရမှာပဲဖြစ်ပါတယ်၊ အရေးကြီးပြီး အသုံးဝင်တဲ့အရာလေးတွေပေါ့။ တစ်ချို့ situation လေးတွေမှာတော့ meaning ကွဲတာတွေရှိနိုင်ပေမယ့် ယေဘုယျအားဖြင့်တော့ သဘောတရားအတူတူပါပဲ၊ ဆိုတော့ စလိုက်ရအောင်။
 
  Part.1 မှာတုန်းက acquaintance လုပ်တာတို့ extend, instantiate လုပ်တာတို့ကမြင်ခဲ့တယ်ဆိုပေမယ့် ဘာတွေလဲ တိတိကျကျတော့ သိခဲ့မှာမဟုတ်လောက်ဘူး၊ ပြီးတော့ နောက်ထပ် aggregation တို့ တစ်ခြား notation လေးတွေလည်းပါလာတာတွေ့ရမယ်၊ ဒီနေ့ ကျနော် တစ်ခုခြင်းဆီအတွက် အနက်ဖွင့်ပေးသွားပါမယ်။
@@ -38,7 +38,7 @@
  }
  ```
 
- ဒီနေရာမှာ classA နဲ့ B ရဲ့ instantiate လုပ်ပြီးမှ acq relation လုပ်ပုံကိုလည်းတစ်မျိုးတစ်ဖုံတွေ့ရမှာပဲဖြစ်ပါတယ်။ Strongly Type Lang တွေမှာတော့ ဒီလိုကြေညာတာပေါ့။
+ ဒီနေရာမှာ classB instantiate လုပ်ပြီးမှ acq relation လုပ်ပုံကိုလည်းတစ်မျိုးတစ်ဖုံတွေ့ရမှာပဲဖြစ်ပါတယ်။ Strongly Type Lang တွေမှာတော့ ဒီလိုကြေညာတာပေါ့။
  private ClassB data;
  PHP လိုကောင်မျိုးမှာတေ့ private $data ဆိုပြီးကြေညာတာ any type ဖြစ်နေသေးတယ်၊ပြီးတော့ မှ classB ရဲ့ object reference ကို hold လုပ်ခိုင်းထားလိုက်တယ်။ ဒီလောက်ဆို acquaintance relation အကြောင်းသဘောပေါက်ကောင်းပါရဲ့။ ဒါနဲ့ one to many လည်းရှိသေးတယ်၊ arrow ရှေ့မှာ circle လေးပါရင် ဒီ relation ဟာတစ်ခုထက်ပိုနိုင်တယ်လို့ဆိုလိုတာ၊ မပါရင်တော့ one ပဲပေါ့။
 
