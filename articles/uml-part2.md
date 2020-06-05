@@ -1,4 +1,4 @@
-## UML (Unified Modeling Language) – Part 1
+## UML (Unified Modeling Language) – Part 2
 ### Relationship Notations (Acquaintance & Inheritance)
 ![Image of UML Part2](https://raw.githubusercontent.com/HlaingTinHtun/OOP-Design-Patterns-In-PHP/master/images/uml-part2.png)
 
