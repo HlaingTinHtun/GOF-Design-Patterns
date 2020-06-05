@@ -24,3 +24,6 @@ https://bit.ly/3dOjHoN
 
 ### Part 2 - Relationship Notations (Acquaintance & Inheritance)
 https://bit.ly/2M2TtCY
+
+### Part 3 - Relationship Notations (Aggregation & Instantiation)
+https://bit.ly/3eVGgbx
