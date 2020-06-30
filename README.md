@@ -1,5 +1,5 @@
-# OOP-Design-Patterns-In-PHP
-OOP Design Patterns တွေကို PHP Code တွေနှင့်တကွ ရှင်းလင်းရေးသားတင်ဆက်ပေးသွားမှာပဲဖြစ်ပါတယ်။
+# GOF-Design-Patterns
+GOF OOP Design Patterns တွေကို PHP & C# Code တွေနှင့်တကွ ရှင်းလင်းရေးသားတင်ဆက်ပေးသွားမှာပဲဖြစ်ပါတယ်။
 
 ရေးပြီးသား ဆောင်းပါးတွေကို list လုပ်ပေးထားပါတယ်ခင်ဗျာ။
 
