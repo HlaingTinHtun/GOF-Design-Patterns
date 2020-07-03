@@ -30,3 +30,8 @@ https://bit.ly/3eVGgbx
 
 ### Part 4 - Object & Interaction Diagram
 https://bit.ly/3hAVNQf
+
+## GOF Patterns
+
+### Factory Method Design Pattern
+https://bit.ly/38nADB2
