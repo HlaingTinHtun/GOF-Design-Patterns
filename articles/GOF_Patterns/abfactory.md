@@ -1,4 +1,4 @@
-## Factory Method Design Pattern
+## Abstract Factory Method Design Pattern
 
 ### Objective
 
