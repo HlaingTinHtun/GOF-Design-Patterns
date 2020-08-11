@@ -38,3 +38,7 @@ https://bit.ly/38nADB2
 
 ### Abstract Factory Method Design Pattern
 https://bit.ly/3eua3aQ
+
+
+### Singleton Design Pattern
+https://bit.ly/3gO0Lbw
