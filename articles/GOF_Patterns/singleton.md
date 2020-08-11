@@ -1,4 +1,4 @@
-## Single Design Pattern
+## Singleton Design Pattern
 
 ### Objective
 
