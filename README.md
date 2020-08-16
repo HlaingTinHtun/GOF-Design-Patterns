@@ -42,3 +42,6 @@ https://bit.ly/3eua3aQ
 
 ### Singleton Design Pattern
 https://bit.ly/3gO0Lbw
+
+### Builder Pattern
+https://bit.ly/31VKXNR
