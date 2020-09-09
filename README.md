@@ -31,17 +31,20 @@ https://bit.ly/3eVGgbx
 ### Part 4 - Object & Interaction Diagram
 https://bit.ly/3hAVNQf
 
-## GOF Patterns
+## GOF Design Patterns
 
-### Factory Method Design Pattern
+### Factory
 https://bit.ly/38nADB2
 
-### Abstract Factory Method Design Pattern
+### Abstract Factory
 https://bit.ly/3eua3aQ
 
 
-### Singleton Design Pattern
+### Singleton
 https://bit.ly/3gO0Lbw
 
-### Builder Pattern
+### Builder
 https://bit.ly/31VKXNR
+
+### Prototype
+https://bit.ly/3icVTgN
