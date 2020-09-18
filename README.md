@@ -30,6 +30,7 @@ https://bit.ly/3eVGgbx
 
 ### Part 4 - Object & Interaction Diagram
 https://bit.ly/3hAVNQf
+
 ---------------------------------------
 
 ## GOF Design Patterns
@@ -50,6 +51,7 @@ https://bit.ly/31VKXNR
 
 ### Prototype
 https://bit.ly/3icVTgN
+
 ---------------------------------------
 ###  Structural Design Patterns
 
