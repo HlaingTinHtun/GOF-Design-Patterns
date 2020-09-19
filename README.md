@@ -38,20 +38,19 @@ https://bit.ly/3hAVNQf
 ### Creational Design Patterns
 
 ### Factory
-https://bit.ly/38nADB2
+https://bit.ly/3iMeWin
 
 ### Abstract Factory
-https://bit.ly/3eua3aQ
+https://bit.ly/32HX0ju
 
 ### Singleton
-https://bit.ly/3gO0Lbw
+https://bit.ly/2EllhTa
 
 ### Builder
-https://bit.ly/31VKXNR
+https://bit.ly/2FInJnj
 
 ### Prototype
-https://bit.ly/3icVTgN
-
+https://bit.ly/3iXwEiU
 ---------------------------------------
 ###  Structural Design Patterns
 
