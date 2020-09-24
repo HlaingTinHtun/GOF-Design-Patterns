@@ -51,8 +51,16 @@ https://bit.ly/2FInJnj
 
 ### Prototype
 https://bit.ly/3iXwEiU
+
 ---------------------------------------
+
 ###  Structural Design Patterns
 
 ### Bridge
 https://bit.ly/3kutCDq
+
+### Adapter
+https://bit.ly/3coTn5h
+
+### Composite
+https://bit.ly/32Xop0Z
