@@ -64,3 +64,6 @@ https://bit.ly/3coTn5h
 
 ### Composite
 https://bit.ly/32Xop0Z
+
+### Decorator
+https://bit.ly/3lZVznl
