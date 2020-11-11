@@ -7,7 +7,7 @@ Part 2 မှာတော့ abstract class အကြောင်းကို �
 Part 2 ကိုမဖတ်ခင် part1 interface အကြောင်းကိုဖတ်ထားရင်ပိုကောင်းပါတယ်။ part 1 link အောက်မှာပါ။
 https://bit.ly/2yT8W5f
 
-Abstract class မှာတော့ အနည်းဆုံး abstract method တစ်ခုပါရမယ်။ Interface နဲ့ မတူတာက abstract မှာ concrete method တွေပါရေးလို့ရတယ်။ class ထဲမှာ define လုပ်ထားတဲ့ abstract method တွေကို child class တွေက မဖြစ်မနေ implement လုပ်ပေးရမယ်။ Abstract class ရဲ့ main purpose က child class တွေအတွက် template လေးလိုပုံစံပဲ၊ inherit လုပ်မယ်၊ abstract method တွေ implement လုပ်မယ်။ abstract class ကဘယ်လိုအသုံးဝင်လဲဆိုတာ အောက်က code example လေးတွေကြည့်ရအောင်။
+Interface နဲ့ မတူတာက abstract မှာ concrete method တွေပါရေးလို့ရတယ်။ class ထဲမှာ define လုပ်ထားတဲ့ abstract method တွေကို child class တွေက မဖြစ်မနေ implement လုပ်ပေးရမယ်။ Abstract class ရဲ့ main purpose က child class တွေအတွက် template လေးလိုပုံစံပဲ၊ inherit လုပ်မယ်၊ abstract method တွေ implement လုပ်မယ်။ abstract class ကဘယ်လိုအသုံးဝင်လဲဆိုတာ အောက်က code example လေးတွေကြည့်ရအောင်။
 ```
 <?php
 
